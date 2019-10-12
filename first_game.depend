@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570338451 source:c:\users\joshu\onedrive\bureau\test_blocks\first_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
